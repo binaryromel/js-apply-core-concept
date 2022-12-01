@@ -1,0 +1,3 @@
+function henten(){
+    console.log()
+}
